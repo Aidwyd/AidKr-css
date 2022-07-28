@@ -26,7 +26,7 @@ https://media.discordapp.net/attachments/1000532989891055617/1001921839414661190
 
 Well its simple : 
 
-So if your in the Client, depending on which your using 
+ - So if your in the Client, depending on which your using they would have different type of installation proccesses!
 
 # WINDOWS OPERATING SYSTEMS 
 
