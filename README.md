@@ -28,46 +28,45 @@ Well its simple :
 
 So if your in the Client, depending on which your using 
 
-/#WINDOWS OPERATING SYSTEMS#\
+# WINDOWS OPERATING SYSTEMS 
 
-First go to Files of your computer 
+* First go to Files of your computer 
 
 ![image](https://user-images.githubusercontent.com/44987219/181342804-a3015b1a-ee01-47b8-81ee-db8b4a4d8e68.png)
 
 
-Then go To documents 
+* Then go To documents 
 
 
 
-After go to the your prefered Client Swap folder 
+ * After go to the your prefered Client Swap folder 
 
 ![image](https://user-images.githubusercontent.com/44987219/181343156-11c8df22-3ce7-4e8f-b75f-55f5c3600b66.png)
 
 In This case im using Laf Krunker Client 
 
-Then After your in your Swap Drag the Files from the Mega Link or from the Zip in this page to access the CSS
+* Then After your in your Swap Drag the Files from the Mega Link or from the Zip in this page to access the CSS
 
 ![image](https://user-images.githubusercontent.com/44987219/181343437-da5a103c-1d37-47b8-895b-b1d352db4433.png)
 
-After you have downloaded The CSS files that you need paste them to this swap folder
+* After you have downloaded The CSS files that you need paste them to this swap folder
 
-After that Open your Client or Restart it to see the new Changes!
+* After that Open your Client or Restart it to see the new Changes!
 
 
-
-#/BROWSER ONLY#\ 
+# BROWSER ONLY
 
 Now for the Browser its more easier to access and install 
 If your on Brave or Chrome or any browser that complies with  "YOUR BROWSER"://Extensions   Then your fine 
 
 For this Example i'll be using Brave Browser 
 
-Open Your Browser and Select The following : Brave://extensions  , 
+ * Open Your Browser and Select The following : Brave://extensions  , 
 
 ![image](https://user-images.githubusercontent.com/44987219/181344113-4b4697e2-b31d-44f6-887f-593dab25765a.png)
 
 
-After your in your Extensions Manager, You'll need to Select the Developer Mode to make this work! 
+ * After your in your Extensions Manager, You'll need to Select the Developer Mode to make this work! 
 
 To Select Developer Mode, Do the Following 
 
@@ -75,13 +74,13 @@ To Select Developer Mode, Do the Following
 
 After youve Turned on that 
 
-Go Ahead and Select "Load Unpacked"
+* Go Ahead and Select "Load Unpacked"
 
 ![image](https://user-images.githubusercontent.com/44987219/181344933-5e3bdc5e-4c70-4c1a-85c0-5285cc7e2f5d.png)
 
 After you've Selected "Load Unpacked"  
 
-Go to documents and Select your Krunker Client Swapper
+* Go to documents and Select your Krunker Client Swapper
 
 ![image](https://user-images.githubusercontent.com/44987219/181345218-c7f48346-a468-4510-9c41-eb72773c3084.png)
 
