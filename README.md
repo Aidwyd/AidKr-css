@@ -1,7 +1,27 @@
 # AidKr-css
 
+How does my Krunker CSS Look like? 
 
-How to install My css on your browser or client?
+# Sample 1
+Main UI
+
+https://media.discordapp.net/attachments/1002018820019474473/1002032739408687104/unknown.png?width=831&height=467
+
+# Sample 2 
+Loading Screen
+
+https://media.discordapp.net/attachments/1000532989891055617/1001921665627848855/unknown.png
+
+# Sample 3
+In-Game UI
+
+https://media.discordapp.net/attachments/1000532989891055617/1001921839414661190/Screenshot_2022-07-27_2.39.28_PM_-_Display_1.png
+
+
+
+
+
+ # How to install My css on your browser or client?
 
 
 Well its simple : 
