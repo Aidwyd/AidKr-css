@@ -72,7 +72,7 @@ To Select Developer Mode, Do the Following
 
 ![image](https://user-images.githubusercontent.com/44987219/181344748-53feaa9d-a313-47a0-9481-36d1764fca1f.png)
 
-After youve Turned on that 
+After you've Turned on that 
 
 * Go Ahead and Select "Load Unpacked"
 
