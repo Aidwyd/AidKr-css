@@ -96,7 +96,7 @@ NOTE - When your trying to load your CSS in your client make sure that you have 
 ![image](https://user-images.githubusercontent.com/44987219/181345751-6c776ee8-5f08-41e6-80a8-a988f2693688.png)
 
 
-NOTE - When your installing the Css on Browser make sure that these files are in the css folde with it or else it wont read the files and wont verify the CSS!
+NOTE - When your installing the Css on Browser make sure that these files are in the css folder with it or else it wont read the files and wont verify the CSS!
 
 ![image](https://user-images.githubusercontent.com/44987219/181346025-de88b077-8b4b-4796-b1a7-22b6badf31a9.png)
 
